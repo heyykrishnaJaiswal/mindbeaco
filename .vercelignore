@@ -1,0 +1,7 @@
+data/
+reports/
+train.py
+requirements-train.txt
+model_gb.joblib
+__pycache__/
+.venv/
